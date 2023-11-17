@@ -30,3 +30,12 @@ Join Telegram group, https://t.me/+5jQJ3Rv7T_dhN2Y0 to buy it
 # Todo
 
 - Minecraft session stealer
+
+
+# Star goals
+
+- 10 stars - 50% discount for a month
+- 20 stars - 1 free build giveaway
+- 30 stars - 2 free builds giveaway
+- 40 stars - 3 free builds giveaway
+- 50 stars - RAT is free 1 week
