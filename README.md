@@ -16,7 +16,6 @@
 # Buy instructions
 [Join the Telegram Group](https://t.me/+5jQJ3Rv7T_dhN2Y0) and then dm one of the admins (preferably the owner)
 
-
 # Prices
 
 | Plan          | Cost            | Included Features                       |
@@ -27,6 +26,8 @@
 | Bishop plan   | $10 (per month) | RAT + stealer + support + updates       |
 | Rook Plan     | Coming soon     | N/A                                     |
 | Queen plan    | $15 (per month) | All features + support + VIP discord    |
+
+# [Demo video comming soon](https://)
 
 # Todo
 
