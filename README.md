@@ -14,7 +14,8 @@
 - Scheduler
 
 # Buy instructions
-Join Telegram group, https://t.me/+5jQJ3Rv7T_dhN2Y0 to buy it
+[Join the Telegram Group](https://t.me/+5jQJ3Rv7T_dhN2Y0) and then dm one of the admins (preferably the owner)
+
 
 # Prices
 
