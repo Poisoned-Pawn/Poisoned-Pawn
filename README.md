@@ -30,6 +30,10 @@ Join Telegram group, https://t.me/+5jQJ3Rv7T_dhN2Y0 to buy it
 # Todo
 
 - Minecraft session stealer
+- Better obfuscator / crypter
+- Better startup
+- Telegram bot based builder
+- More Anti AV features
 
 
 # Star goals
@@ -39,3 +43,4 @@ Join Telegram group, https://t.me/+5jQJ3Rv7T_dhN2Y0 to buy it
 - 30 stars - 2 free builds giveaway
 - 40 stars - 3 free builds giveaway
 - 50 stars - RAT is free 1 week
+
